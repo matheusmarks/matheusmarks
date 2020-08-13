@@ -19,3 +19,5 @@ Eu tenho muita paixão sobre cada coisa que envolve programação, dedicando meu
 -  🔭 Atualmente estou fazendo o bootcamp da Rocketseat.
 -  📗 Estou aprendendo nodejs, reactjs and react native. 
 -  💻 Estou procurando um trabalho como desenvolvedor júnior ou como aprendiz, por enquanto.
+
+[LinkedIn](https://www.linkedin.com/in/matheus-marques-0558921b4/)
