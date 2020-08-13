@@ -20,4 +20,4 @@ Eu tenho muita paixão sobre cada coisa que envolve programação, dedicando meu
 -  📗 Estou aprendendo nodejs, reactjs and react native. 
 -  💻 Estou procurando um trabalho como desenvolvedor júnior ou como aprendiz, por enquanto.
 
-[LinkedIn](https://www.linkedin.com/in/matheus-marques-0558921b4/)
+[![LinkedIn Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/matheus-marques-0558921b4/)](https://www.linkedin.com/in/matheus-marques-0558921b4/) 
