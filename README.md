@@ -13,12 +13,9 @@ I have a lot of passion about every single thing that involves programming, and 
 
 #### Contact me on: 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheusmarks)]
-(https://github.com/matheusmarks)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/matheus-marques-0558921b4/)]
-(https://www.linkedin.com/in/matheus-marques-0558921b4/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-ba110c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marquesmatheusoliveira01@gmail.com))]
-(mailto:marquesmatheusoliveira01@gmail.com)
+- ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheusmarks)
+- ![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/matheus-marques-0558921b4/)
+- ![Gmail Badge](https://img.shields.io/badge/-Gmail-ba110c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marquesmatheusoliveira01@gmail.com))
 
 
 
