@@ -11,7 +11,7 @@ I have a lot of passion about every single thing that involves programming, and 
 - 📗 Learning nodejs, reactjs and react native. 
 - 💻 I'm looking for a job as a junior developer or as an apprentice for now.  
 
-#### Follow me on: 
+#### Contact me on: 
 
 <p>
 <a href="https://www.linkedin.com/in/matheus-marques-0558921b4/">
