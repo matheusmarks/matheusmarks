@@ -10,6 +10,9 @@ I have a lot of passion about every single thing that involves programming, and 
 - 💻 I’m currently doing a bootcamp from <a href="https://rocketseat.com.br/">Rocketseat</a>.
 - 📗 Learning nodejs, reactjs and react native. 
 - 🔭 I'm looking for a job as a junior developer or as an apprentice for now.  
+<div>
+  <img src="file:///C:/Users/Matheus/Downloads/react.svg"/>
+</div>
 
 #### Contact me on: 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheusmarks)](https://github.com/matheusmarks)
