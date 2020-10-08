@@ -18,7 +18,7 @@ I have a lot of passion about every single thing that involves programming, and 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 <a href="mailto:marquesmatheusoliveira01@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red"/>
+  <img src="https://img.shields.io/badge/Gmail-Gmail-red?style=flat&logo=gmail&labelColor=white"/>
 </a>
 </p>
 
