@@ -11,7 +11,7 @@ I have a lot of passion about every single thing that involves programming, and 
 - 📗 Learning nodejs, reactjs and react native. 
 - 🔭 I'm looking for a job as a junior developer or as an apprentice for now.  
 <div>
-  <img src="https://github.com/matheusmarks/images/blob/master/react.svg"/>
+  <img src=""/>
 </div>
 
 #### Contact me on: 
