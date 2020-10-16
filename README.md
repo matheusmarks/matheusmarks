@@ -13,8 +13,10 @@ I have a lot of passion about every single thing that involves programming, and 
 
 #### Languages and Tools: 
 <p>
+  <img src="https://github.com/matheusmarks/images/blob/master/new-img/typescript.png"/>
   <img src="https://github.com/matheusmarks/images/blob/master/new-img/480px-JavaScript-logo.png"/>
   <img src="https://github.com/matheusmarks/images/blob/master/new-img/512px-React-icon.svg.png"/>
+  <img src="https://github.com/matheusmarks/images/blob/master/new-img/unnamed.png"/>
   <img src="https://github.com/matheusmarks/images/blob/master/new-img/png-transparent-computer-terminal-computer-icons-linux-console-terminal-emulator-linux-logo-desktop-wallpaper-linux-thumbnail.png"/>
 </p>
 
