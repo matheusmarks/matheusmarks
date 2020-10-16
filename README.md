@@ -15,8 +15,6 @@ I have a lot of passion about every single thing that involves programming, and 
 <p>
   <img src="https://github.com/matheusmarks/images/blob/master/new-img/480px-JavaScript-logo.png"/>
   <img src="https://github.com/matheusmarks/images/blob/master/new-img/512px-React-icon.svg.png"/>
-  <img src="https://github.com/matheusmarks/images/blob/master/new-img/png-transparent-java-programmer-computer-programming-logo-others-miscellaneous-text-logo.png"/>
-  <img src="https://github.com/matheusmarks/images/blob/master/new-img/1_7xUxphx7WwttvlFu5gVvVw.png"/>
   <img src="https://github.com/matheusmarks/images/blob/master/new-img/png-transparent-computer-terminal-computer-icons-linux-console-terminal-emulator-linux-logo-desktop-wallpaper-linux-thumbnail.png"/>
 </p>
 
