@@ -2,13 +2,14 @@
 
 #### Welcome, everyone ! 👋
 
-My name is Matheus Marques, 20 yo, and I'm a Computer Science student. 
-I have a lot of passion about every single thing that involves programming, and I'm also deticating my time and efforts to learn knew things.
+- My name is Matheus Marques, 20 yo, and I'm a Computer Science student. 
+- I have a lot of passion about every single thing that involves programming, 
+and I'm also deticating my time and efforts to learn knew things.
 
 #### More info about me:
 
-- 💻 I’m currently doing a bootcamp from <a href="https://rocketseat.com.br/">Rocketseat</a>.
-- 📗 Learning nodejs, reactjs and react native.  
+- 💻 I’m currently working with Java Spring MVC and Javascript.
+- ⚛ I code in Java, Nodejs, Reactjs and Angular.  
 
 #### Contact me on: 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheusmarks)](https://github.com/matheusmarks)
