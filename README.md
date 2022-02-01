@@ -11,7 +11,6 @@ and I'm also deticating my time and efforts to learn knew things.
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
