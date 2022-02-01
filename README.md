@@ -9,7 +9,7 @@ and I'm also deticating my time and efforts to learn knew things.
 #### Technologies
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=spring)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
