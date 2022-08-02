@@ -2,7 +2,7 @@
 
 #### Welcome, everyone ! 👋
 
-- My name is Matheus Marques, 21 yo, and I'm a Computer Science student. 
+- My name is Matheus Marques, 22 yo, and I'm a Computer Science student. 
 - I have a lot of passion about every single thing that involves programming, 
 and I'm also deticating my time and efforts to learn knew things.
 
